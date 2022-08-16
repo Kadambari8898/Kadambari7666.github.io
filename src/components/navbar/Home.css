@@ -1,0 +1,8 @@
+.Home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 670px;
+    /* background-color:#B0B0B0; */
+    background-image: url('../../images/img3.webp');
+}
