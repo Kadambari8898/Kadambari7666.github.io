@@ -17,14 +17,14 @@ export default function About(){
       <div className="a-right">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          I'm a Frontend developer. I had used and work on many frontend technlogies. such like React .js, Jquery many more.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+          My Interest <br></br>
+          → I'm always interested to make new friends.<br></br>
+          → listeening music.<br></br>
+          → visit new places.<br></br>
+          → Swimming.
         </p>
         {/* <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
