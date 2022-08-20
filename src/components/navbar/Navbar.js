@@ -11,19 +11,19 @@ export default function Navbar()
                 <div className="colz">
                     <div className="colz-icon">
 
-                    <a href="/#">
+                    <a href="https://www.instagram.com/kadambari_s_/">
                         <i className="fa fa-instagram" ></i>
                     </a>
-                    <a href="/#">
+                    <a href="https://www.facebook.com/shivani.sabale.9">
                         <i className="fa fa-facebook-square"></i>
                     </a>
-                    <a href="/#">
+                    <a href="Contact.js">
                         <i className="fa fa-google-plus-square" ></i>
                     </a>
-                    <a href="/#">
+                    <a href="https://www.linkedin.com/in/kadambari-shendge-46952b21a">
                         <i className="fa fa-linkedin-square" ></i>
                     </a>
-                    <a href="/#">
+                    <a href="https://github.com/Kadambari8898">
                         <i className="fa fa-github-square" ></i>
                     </a>
                     </div>

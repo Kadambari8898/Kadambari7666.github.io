@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import logo from '../../images/kadu1.jfif';
+import logo from '../../images/Kadu.jpeg';
 
 export default function About(){
     return(
